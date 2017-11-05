@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import React, {
   Component,
 } from 'react';
@@ -13,7 +14,7 @@ import { Icon } from './Icon';
 
 const USER_CANCELLED_ERROR = 'User did not share';
 
-const { func, string } = React.PropTypes;
+const { func, string } = PropTypes;
 
 const showErrorMessage = (error) => {
   if (error.error === USER_CANCELLED_ERROR) {
