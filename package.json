@@ -17,7 +17,7 @@
     "react-native-navigation-experimental-compat": "1.0.0",
     "react-native-photo-view": "~1.2.0",
     "react-native-share": "~1.0.19",
-    "react-native-transformable-image": "^0.0.18",
+    "react-native-transformable-image": "git+ssh://git@github.com:gilang-pratama/react-native-transformable-image.git#a5e34320f0d316d0bcc304ae6a9f609f100cc665",
     "react-native-vector-icons": "^4.4.2",
     "stream": "0.0.2",
     "tinycolor2": "~1.3.0"
