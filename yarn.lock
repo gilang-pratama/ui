@@ -1441,12 +1441,11 @@ react-native-gesture-responder@0.1.1:
   dependencies:
     react-timer-mixin "^0.13.3"
 
-react-native-lightbox@shoutem/react-native-lightbox#4e58b9b1aca166142d69b161ff511efc3358ff9f:
+react-native-lightbox@^0.7.0:
   version "0.7.0"
-  resolved "https://codeload.github.com/shoutem/react-native-lightbox/tar.gz/4e58b9b1aca166142d69b161ff511efc3358ff9f"
+  resolved "https://registry.yarnpkg.com/react-native-lightbox/-/react-native-lightbox-0.7.0.tgz#e52b4d7fcc141f59d7b23f0180de535e35b20ec9"
   dependencies:
-    react-native-view-transformer ldn0x7dc/react-native-view-transformer#f7e028b6566022deac4e523052e74c2c63a4af7e
-    react-timer-mixin "^0.13.3"
+    prop-types "^15.5.10"
 
 react-native-linear-gradient@^2.3.0:
   version "2.3.0"
